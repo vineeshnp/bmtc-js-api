@@ -1,0 +1,21 @@
+{
+  "name": "bmtc-nodejs-api",
+  "version": "1.0.0",
+  "description": "Bangalore Metropolitan Transport Corporation BMTC recently released its Intelligent Transport System (ITS) , But as of now there is no official public api available. This is an un-official api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bmtc",
+    "api",
+    "bmtc",
+    "bmtc-api"
+  ],
+  "author": "Vineesh Narikutty Pacha <vineeshvalsalan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.0",
+    "request": "^2.72.0"
+  }
+}
