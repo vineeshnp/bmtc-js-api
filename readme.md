@@ -17,7 +17,7 @@ And then include this in your project:
 
 
 ```javascript
-var bmtc = require('bmtc');
+var bmtc = require('bmtc-js-api');
 ```
 
 ## Usage
