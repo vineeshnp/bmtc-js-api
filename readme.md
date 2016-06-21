@@ -3,7 +3,7 @@
 
 Bangalore Metropolitan Transport Corporation BMTC recently released its Intelligent Transport System (ITS) , But as of now there is no public api available . This is an reverse engineering approach to solve the issue
 
-API Reference : https://github.com/tachyons/bmtc_api
+API Reference : https://github.com/vineeshnp/bmtc-js-api
 
 ## Installation
 
@@ -116,8 +116,11 @@ You can use this module on your `nodeJS` projects as well as other JS projects l
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/tachyons/bmtc.
+Bug reports and pull requests are welcome on GitHub at https://github.com/vineeshnp/bmtc-js-api.
 
+## Reference
+`https://github.com/tachyons/bmtc-api`
+`https://github.com/tvsijin/bmtc-api-php`
 
 ## License
 
