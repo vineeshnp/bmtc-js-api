@@ -10,7 +10,7 @@ API Reference : https://github.com/vineeshnp/bmtc-js-api
 Add this line to your application's Gemfile:
 
 ```javascript
-npm install bmtc
+npm install bmtc-js-api
 ```
 
 And then include this in your project:
