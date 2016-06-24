@@ -107,7 +107,7 @@ bmtc.tripFare('Banashankari TTMC', 'Central Silk Board', 'vajra', 1,function(res
 ```
 
 Service types can be either
-* oridninary
+* ordinary
 * vajra
 * vayu_vajra
 * atal_sarige
