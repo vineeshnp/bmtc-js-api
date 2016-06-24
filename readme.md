@@ -95,7 +95,7 @@ bmtc.routeMap('up','500CA',function(res){
 Get Trip fare
 
 ```javascript
-bmtc.tripFare(<source station>, <destination station>, <service types>, <number of adults>,function(res){
+bmtc.tripFare(<source station>, <destination station>, <number of adults>, <service types>, function(res){
   console.log('Unit Test for tripFare');
   console.log(res);
 });
