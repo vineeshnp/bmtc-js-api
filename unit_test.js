@@ -24,7 +24,7 @@ bmtc.stopDetails('9234',function(res){
   console.log(res);
 });
 
-bmtc.tripFare('Banashankari TTMC', 'Central Silk Board', 'vajra', 1,function(res){
+bmtc.tripFare('Banashankari TTMC', 'Central Silk Board', 1,'vajra',function(res){
   console.log('Unit Test for tripFare');
   console.log(res);
 });

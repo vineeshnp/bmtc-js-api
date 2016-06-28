@@ -100,7 +100,7 @@ bmtc.tripFare(<source station>, <destination station>, <service types>, <number 
   console.log(res);
 });
 eg
-bmtc.tripFare('Banashankari TTMC', 'Central Silk Board', 'vajra', 1,function(res){
+bmtc.tripFare('Banashankari TTMC', 'Central Silk Board', 1, 'vajra',function(res){
   console.log('Unit Test for tripFare');
   console.log(res);
 });
